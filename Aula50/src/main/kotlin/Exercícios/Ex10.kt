@@ -1,3 +1,5 @@
+package Exercícios
+
 class Ex10 {
     companion object{
         fun somar(){

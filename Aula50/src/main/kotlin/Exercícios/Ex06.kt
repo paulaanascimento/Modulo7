@@ -1,3 +1,5 @@
+package Exercícios
+
 class Ex06 {
     companion object{
         fun musicaBanda(){

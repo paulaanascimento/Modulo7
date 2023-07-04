@@ -1,3 +1,5 @@
+package Exercícios
+
 class Ex07 {
     companion object{
         fun calcularMedia(){

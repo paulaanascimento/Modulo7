@@ -1,3 +1,5 @@
+package Exercícios
+
 class Ex11 {
     companion object{
         fun media(){

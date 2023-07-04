@@ -1,3 +1,5 @@
+package Exercícios
+
 class Ex09 {
     companion object{
         fun calcularNumeros(){

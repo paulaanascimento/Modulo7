@@ -1,3 +1,5 @@
+package Exercícios
+
 class Ex02 {
     companion object{
         fun informarDia(){

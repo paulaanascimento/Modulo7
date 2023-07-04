@@ -1,3 +1,5 @@
+package Exercícios
+
 class Ex05 {
     companion object{
         fun listaCompras(){

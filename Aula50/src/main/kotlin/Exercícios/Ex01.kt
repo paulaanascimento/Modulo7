@@ -1,3 +1,5 @@
+package Exercícios
+
 class Ex01 {
     companion object {
         fun somarValoresVetor() {

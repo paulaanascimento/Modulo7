@@ -1,3 +1,5 @@
+package Exercícios
+
 class Ex12 {
     companion object{
        fun linhaTempo(){

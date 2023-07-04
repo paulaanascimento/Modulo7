@@ -1,3 +1,5 @@
+package Exercícios
+
 class Ex08 {
     companion object{
         fun fibonacci(){

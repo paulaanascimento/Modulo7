@@ -1,3 +1,5 @@
+package Exercícios
+
 class Ex03 {
     companion object{
         fun repetirMensagem(){

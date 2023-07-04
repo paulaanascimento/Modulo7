@@ -1,7 +1,9 @@
+package Exercícios
+
 class Ex04 {
     companion object{
         fun exibirNumerosPares(){
-            var vetor = IntArray(10)
+            val vetor = IntArray(10)
             for(i: Int in 0 .. 9){
                 print("Digite um numero inteiro: ")
                 vetor[i] = readln().toInt()

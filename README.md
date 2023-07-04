@@ -1,5 +1,6 @@
 # Lista de Exercícios
-
+<div align="justify">
+   
 1. Faça um programa que leia 5 valores inteiros, armazene-os em um vetor, calcule e apresente a soma destes valores.
 
 2. Escreva um algoritmo que leia um número inteiro (de 1 a 7) representando o dia da semana e informe o nome do dia correspondente.
@@ -34,3 +35,4 @@ usuário
 11. Escreva um algoritmo que leia 15 números do usuário. Ao final exiba a média dos 15 números. Utilize o comando de repetição Para (For)
     
 12. Escreva um algoritmo que leia o ano de nascimento de uma pessoa e apresente uma linha do tempo, mostrando cada ano de vida da pessoa e quantos anos ela tinha em cada ano até o ano atual.
+<div>
